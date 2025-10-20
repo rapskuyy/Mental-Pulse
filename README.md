@@ -1,0 +1,1 @@
+MentalPulse is an AI chatbot project that was made for tracking user's mental health. User needs to do a quiz first to determine his/her mental health scores and they can consul with the chatbot. If the mental health score is to low, they are needed to have a consultation with a therapist from our apps.
